@@ -1,4 +1,5 @@
 # regula-falsi-calculate
+REGULA FALSI METHOD IN NUMERICAL ANALYSIS
 
 just enter the first variable value and the equation then program will calculate regula falsi values with needed iterations..
 
